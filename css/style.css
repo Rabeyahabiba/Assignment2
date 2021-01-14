@@ -1,3 +1,4 @@
+
 .orange-highlight{
     color: orange;
 }
@@ -26,13 +27,10 @@
 .icon-bg{
     height: 80%;
     width: 70%;
-    border: 0;
-    text-decoration-color: #363958;
-    
+    border: 0;    
 }
 .bg{
-    background-color: #FFFBF0;
-   
+    background-color: #FFFBF0;  
 }
 .bg-color{
     margin-bottom: 0;
@@ -55,4 +53,9 @@
 }
 .col h1{
     color: #FABE4C;
+}
+.icon{
+    height: 60%;
+    width: 20%;
+   
 }
