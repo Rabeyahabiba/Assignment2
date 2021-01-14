@@ -1,0 +1,58 @@
+.orange-highlight{
+    color: orange;
+}
+.panda-card{
+    border:0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+         width:100px;
+         
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+
+.img-bg-color{
+    height: 65%;
+    background-color: gray;
+    border-radius: 1em;
+
+}
+.icon-bg{
+    height: 80%;
+    width: 70%;
+    border: 0;
+    text-decoration-color: #363958;
+    
+}
+.bg{
+    background-color: #FFFBF0;
+   
+}
+.bg-color{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    background-color: #232F3E;   
+    border-radius: 1em;
+}
+.col-sm{
+    color: whitesmoke;
+}
+.nav-link{
+   color: white;
+}
+.salmon-highlight{
+    background-color: rgb(228, 217, 212);
+    border-radius: 1em;
+}
+.btn{
+    background-color: #A4BC46;
+}
+.col h1{
+    color: #FABE4C;
+}
